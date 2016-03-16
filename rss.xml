@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Culinária]]></title>
         <description><![CDATA[Culinária]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/culinaria/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 04:48:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Mar 2016 05:00:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/culinaria/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Já vi que a Grid abriu em beta sem funcionar. Como é que é possível nem sequer dar para publicar mais de um posto? </p>]]></description>
+            <link>https://thegrid.ai/culinaria/ja-vi-que-a-grid-abriu-em-beta-sem-funcionar-como-e-que-e-p/index.html</link>
+            <guid isPermaLink="false">05827cb0-a64f-4467-9d58-2c4b55c46812</guid>
+            <pubDate>Wed, 16 Mar 2016 05:00:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdfc43ac-746a-4bda-8423-53762f507caa.jpg">]]></description>
-            <link>undefinedexperiencias-culinarias-um-diario/index.html</link>
+            <link>https://thegrid.ai/culinaria/experiencias-culinarias-um-diario/index.html</link>
             <guid isPermaLink="false">025efa58-4b54-4cf1-80f5-fbad48e61e09</guid>
             <pubDate>Wed, 16 Mar 2016 04:47:53 GMT</pubDate>
         </item>
