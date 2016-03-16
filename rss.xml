@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Culinária]]></title>
+        <description><![CDATA[Culinária]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 16 Mar 2016 04:48:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdfc43ac-746a-4bda-8423-53762f507caa.jpg">]]></description>
+            <link>undefinedexperiencias-culinarias-um-diario/index.html</link>
+            <guid isPermaLink="false">025efa58-4b54-4cf1-80f5-fbad48e61e09</guid>
+            <pubDate>Wed, 16 Mar 2016 04:47:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
