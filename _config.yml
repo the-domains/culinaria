@@ -1,6 +1,6 @@
 name: Culinária
 favicon: null
-layout_spectrum: 0.37573
+layout_spectrum: 0.38802
 typography_spectrum: 0.6272
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#a18556'
     - '#f0ddb2'
   brandStrength: 0
-  lightness: 0.0625
+  lightness: 1
   saturation: 1
   rhythmicContrast: 0
 purpose: []
