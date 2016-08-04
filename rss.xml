@@ -4,7 +4,7 @@
         <description><![CDATA[Culinária]]></description>
         <link>https://thegrid.ai/culinaria/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 05:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 13:57:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/culinaria/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,18 +14,18 @@
             <pubDate>Wed, 16 Mar 2016 05:14:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mesa]]></title>
-            <description><![CDATA[<article><h1>Mesa</h1><p>Mais uma refeição </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bf10aa745e496cee9d644d0abab4936d4d3f073b.jpg"></article>]]></description>
-            <link>https://thegrid.ai/culinaria/mesa/index.html</link>
-            <guid isPermaLink="false">1ec0de54-75ee-4221-8d4d-ce0df571daeb</guid>
-            <pubDate>Wed, 16 Mar 2016 05:09:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Já vi que a Grid abriu em beta sem funcionar. Como é que é possível nem sequer dar para publicar mais de um posto? </p>]]></description>
             <link>https://thegrid.ai/culinaria/ja-vi-que-a-grid-abriu-em-beta-sem-funcionar-como-e-que-e-p/index.html</link>
             <guid isPermaLink="false">05827cb0-a64f-4467-9d58-2c4b55c46812</guid>
-            <pubDate>Wed, 16 Mar 2016 05:00:08 GMT</pubDate>
+            <pubDate>Thu, 04 Aug 2016 13:56:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mesa]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff9afe7d-fbac-4877-841e-13d707a5a8ed.jpg">]]></description>
+            <link>https://thegrid.ai/culinaria/mesa/index.html</link>
+            <guid isPermaLink="false">1ec0de54-75ee-4221-8d4d-ce0df571daeb</guid>
+            <pubDate>Wed, 16 Mar 2016 05:09:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
